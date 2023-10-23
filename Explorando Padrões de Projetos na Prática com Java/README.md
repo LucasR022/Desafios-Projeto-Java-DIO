@@ -1,5 +1,5 @@
-#Explorando Padrıes de Projetos na Pr·tica com Java
+# Explorando Padr√µes de Projetos na Pr√°tica com Java
 
-#Objetivo
+# Objetivo
 
-Criar uma soluÁ„o que explore o conceito de Padrıes de Projeto na pr·tica
+Criar uma solu√ß√£o que explore o conceito de Padr√µes de Projeto na pr√°tica
